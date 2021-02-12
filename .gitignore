@@ -1,0 +1,13 @@
+__pycache__
+.~*
+*test*
+*.txt
+*.bin
+*.csv
+*.db
+*.png
+*.jpg
+*.jpeg
+*.ipynb*
+*.pdf
+*.eps
